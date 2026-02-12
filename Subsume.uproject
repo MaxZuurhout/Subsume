@@ -30,6 +30,13 @@
 		{
 			"Name": "PCG",
 			"Enabled": true
+		},
+		{
+			"Name": "GraphNUnrealPlugin",
+			"Enabled": true
 		}
+	],
+	"AdditionalPluginDirectories": [
+		"../../../Polygonflow/Dash"
 	]
 }
